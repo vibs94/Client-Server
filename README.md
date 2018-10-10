@@ -1,6 +1,3 @@
-Author: Pratik Lotia
-
-Python programs executable in v3.1 and higher versions (done on v3.4)
 
 Usage (on 2 separate command prompt windows):
 client.py "Host-address" "Port-number"
